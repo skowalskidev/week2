@@ -27,7 +27,7 @@ import rp.systems.StoppableRunnable;
 				robot.getDifferentialPilot().rotate(180);
 			}
 			robot.getDifferentialPilot().forward();
-			Delay.msDelay(100);
+			Delay.msDelay(90);
 		}
 	}
 	
